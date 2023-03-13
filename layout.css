@@ -1,0 +1,70 @@
+.mother{
+    background-color: aquamarine;
+    height: 800px;
+    width: 1000px;
+}
+.sister{
+    background-color: burlywood;
+    height: 600px;
+    width: 800px;
+    margin: 5px;
+}
+.child{
+    background-color: blue;
+    height: 600px;
+    width: 400px;
+}
+.first{
+    float: left;
+    background-color: antiquewhite;
+}
+.second{
+    float: right;
+    background-color: blueviolet;    
+}
+.logo{
+    padding-top:50px ;
+    padding-left: 180px;
+    padding-right: 180px;
+
+}
+.username{
+    margin-bottom: 20px;
+    padding: 10px;
+    margin-left: 80px;
+    box-shadow: 1px 2px 1px greenyellow;
+    border: 0;
+}
+.password{
+    margin-bottom: 5px;
+    padding: 10px;
+    margin-left: 80px;
+    box-shadow: 1px 2px 1px greenyellow;
+    border: 0;
+}
+.login{
+    background-color: rgb(90, 155, 240);
+    color: white;
+    padding-right: 80px;
+    padding-left: 80px;
+    margin-left: 80px;
+    margin-top: 20px;
+    border: 0;
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+.forgotpass{
+    margin-bottom: 50px;
+    margin-left: 80px;
+
+}
+.puppy{
+    height:300px;
+    width:300px;
+    padding-left: 50px;
+}
+.noaccount{
+    margin-bottom: 50px;
+    margin-left: 80px;
+
+}
